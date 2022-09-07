@@ -1,6 +1,5 @@
 # Wireless-LED
 
-VIEwoNLY Framework - Wireless LED
 
 Have a control on your led light wirelessly.
 In this video we will show you a demo of an Arduino project "Wireless LED".
