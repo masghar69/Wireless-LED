@@ -4,6 +4,7 @@
 Have a control on your led light wirelessly.
 
 Information:
+
 It is a wireless communication app using Bluetooth Serial Connection. It works with your LED light and your speaker.
 
 To make your LED light work with our app you will need following things in addition:
@@ -21,4 +22,5 @@ FEATURES:
 — Connects automatically at your saved favourite locations
 
 Follow Us on Instagram:
+
 https://www.instagram.com/viewonly.dev/
