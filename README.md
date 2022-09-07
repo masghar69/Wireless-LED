@@ -16,9 +16,13 @@ To make your LED light work with our app you will need following things in addit
 FEATURES:
 
 — Control LED light via Bluetooth
+
 — Play various tones from our featured list
+
 — Play music from your music library
+
 — Intercom (speak into the mobile's microphone and hear it through your wireless speaker)
+
 — Connects automatically at your saved favourite locations
 
 Follow Us on Instagram:
