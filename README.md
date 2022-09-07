@@ -2,7 +2,6 @@
 
 
 Have a control on your led light wirelessly.
-In this video we will show you a demo of an Arduino project "Wireless LED".
 
 Information:
 It is a wireless communication app using Bluetooth Serial Connection. It works with your LED light and your speaker.
