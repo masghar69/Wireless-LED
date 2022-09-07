@@ -25,6 +25,8 @@ FEATURES:
 
 — Connects automatically at your saved favourite locations
 
+**Arduino Code is available in this repository.
+
 Follow Us on Instagram:
 
 https://www.instagram.com/viewonly.dev/
