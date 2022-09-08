@@ -3,6 +3,9 @@
 
 Have a control on your led light wirelessly.
 
+Link to the Android app:
+https://play.google.com/store/apps/details?id=com.viewonly.wirelessled
+
 Information:
 
 It is a wireless communication app using Bluetooth Serial Connection. It works with your LED light and your speaker.
@@ -24,6 +27,8 @@ FEATURES:
 — Intercom (speak into the mobile's microphone and hear it through your wireless speaker)
 
 — Connects automatically at your saved favourite locations
+
+— Calculates weekly energy consumption of your LED
 
 **Arduino Code is available in this repository.**
 
