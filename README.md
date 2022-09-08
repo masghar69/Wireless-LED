@@ -3,8 +3,10 @@
 
 Have a control on your led light wirelessly.
 
+
 Link to the Android app:
 https://play.google.com/store/apps/details?id=com.viewonly.wirelessled
+
 
 Information:
 
@@ -29,6 +31,7 @@ FEATURES:
 — Connects automatically at your saved favourite locations
 
 — Calculates weekly energy consumption of your LED
+
 
 **Arduino Code is available in this repository.**
 
