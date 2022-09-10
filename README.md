@@ -4,12 +4,7 @@
 Have a control on your led light wirelessly.
 
 
-Link to the Android app:
-https://play.google.com/store/apps/details?id=com.viewonly.wirelessled
-
-
 Information:
-
 It is a wireless communication app using Bluetooth Serial Connection. It works with your LED light and your speaker.
 
 To make your LED light work with our app you will need following things in addition:
@@ -38,3 +33,5 @@ FEATURES:
 Follow Us on Instagram:
 
 https://www.instagram.com/viewonly.dev/
+
+<a href='https://play.google.com/store/apps/details?id=com.viewonly.wirelessled&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
